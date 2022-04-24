@@ -1,7 +1,7 @@
 HARDWARE REQUIREMENTS
 
 Hardware Components of this project are
-1.	Arduino uno 
+1.	ATMEGA 328
 2.	16X 2 LCD
 3.	RELAY
 4.	PEIZO ELECTRIC TRANSDUCER
